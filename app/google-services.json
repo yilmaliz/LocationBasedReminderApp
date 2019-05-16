@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135022621708",
+    "firebase_url": "https://plasma-backbone-226222.firebaseio.com",
+    "project_id": "plasma-backbone-226222",
+    "storage_bucket": "plasma-backbone-226222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135022621708:android:d9a575b2992faba5",
+        "android_client_info": {
+          "package_name": "com.ex.ali.bitirmeprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135022621708-476j7raem8t86se176vn4081lev0pvob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyK6qz5QSP9sofzUMMrablguVRqr8xcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135022621708-476j7raem8t86se176vn4081lev0pvob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

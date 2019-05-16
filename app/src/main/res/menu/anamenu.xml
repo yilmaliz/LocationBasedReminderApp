@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/menuProfil" android:title="MY PAGE"></item>
+    <item android:id="@+id/menuAyarlar" android:title="SETTINGS"></item>
+    <item android:id="@+id/menuCıkısYap" android:title="EXIT"></item>
+
+
+</menu>
